@@ -85,7 +85,7 @@ seg_in=4'b0111;
 #100
 seg_in=4'b1000;
 #100
-seg_in=4'b0000;
+seg_in=4'b0000p;
 end
 endmodule
 ```
